@@ -8,8 +8,8 @@ Gosto de criar soluções que unem performance, escalabilidade e boas práticas 
 
 ### 💻 Linguagens:
 <div>
+    <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" />
     <img align="center" alt="PHP" height="60" width="60" src="https://www.logo.wine/a/logo/PHP/PHP-Logo.wine.svg"/>
-    <img align="center" alt="JAVA" height="70" width="50" src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg"/>
     <img align="center" alt="Java Script" height="40" width="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"/>
     <img align="center" alt="MYSQL" height="50" width="70" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"/>
     <img align="center" alt="PostgreSQL" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
